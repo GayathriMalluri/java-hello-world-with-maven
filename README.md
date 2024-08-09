@@ -43,6 +43,7 @@ First you’ll need to setup a Java project for Maven to build. To keep the focu
           System.out.println(readme);
       }
   }
+  }
   ```
 
  + `src/main/java/hello/Greeter.java`
