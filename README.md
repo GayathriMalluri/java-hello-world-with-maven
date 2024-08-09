@@ -40,6 +40,7 @@ First you’ll need to setup a Java project for Maven to build. To keep the focu
       public static void main(String[] args) {
           Greeter greeter = new Greeter();
           System.out.println(greeter.sayHello());
+          System.out.println(readme);
       }
   }
   ```
